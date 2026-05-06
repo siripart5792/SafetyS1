@@ -54,7 +54,8 @@ export default function App() {
           PEA Safety Smart System
         </h1>
         <p className="text-purple-200 text-sm md:text-base max-w-md">
-          ศูนย์รวมบริการและช่องทางการติดต่อด้านความปลอดภัย การไฟฟ้าส่วนภูมิภาค
+          ศูนย์รวมบริการและช่องทางการติดต่อด้านความปลอดภัย<br />
+          การไฟฟ้าส่วนภูมิภาค
         </p>
       </motion.div>
 
